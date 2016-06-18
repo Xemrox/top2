@@ -1,0 +1,12 @@
+package xyz
+
+// A comment
+
+import "fff"
+import "ggg"
+
+// Another comment
+
+func funky() {
+	// comments everywhere!!!! func x y int // 
+}

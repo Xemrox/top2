@@ -1,0 +1,12 @@
+// Platzieren Sie Ihre Einstellungen in dieser Datei, um Standard- und Benutzereinstellungen zu überschreiben.
+{
+	"editor.glyphMargin": true,
+	"editor.insertSpaces": false,
+	"editor.tabSize": 4,
+	"files.exclude": {
+		"**/.git": true,
+		"**/.DS_Store": true,
+		"**/*.o":true
+	},
+	"files.trimTrailingWhitespace": true
+}

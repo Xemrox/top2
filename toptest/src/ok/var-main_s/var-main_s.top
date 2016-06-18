@@ -1,0 +1,7 @@
+package main;
+
+import "test";
+
+func main() {
+	var i int = 666;
+}

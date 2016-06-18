@@ -1,0 +1,28 @@
+
+var iTestvar;
+
+function test
+	parameters()
+end
+
+function testfun
+	parameters ( iParam1 , sParam2 )
+	
+	var oObject
+	var sTest = oObject->oMember
+	var sTest = oObject->CallMe()
+	var sTest = oObject->CallMe()->oMember
+	var sTest = oObject->oMember->CallMe()->CallMe()->oMember
+	var iReturn = iParam1 + iParam2
+	return iReturn
+end
+
+obj testobj
+	sName
+	iAge
+end
+
+enum testenum
+	Monday
+end
+

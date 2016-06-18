@@ -1,0 +1,14 @@
+package blubb
+
+import "very"
+import "import"
+import "such"
+import "wow"
+
+func amazing() {
+	/* Such
+		Multiline
+			Much
+				func WoW() { import main var
+	*/
+}
